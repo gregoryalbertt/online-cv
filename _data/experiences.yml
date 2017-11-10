@@ -1,12 +1,25 @@
 - experience:
-  role: Support
+  role: Intern
   time: 2017 - Present
   company: Secretaria de Segurança pública, Maceió
-  details: "Hardware support.
-  <br> <br>
-  Infraestructure"
+  details: "IT"
 - experience:
   role: Lead Developer
   time: 2017 - Present
   company: Vibe Ent., Santana do Ipanema
   details: "Developer"
+- experience:
+  role: Alumni
+  time: 2014 - Present
+  company: U.S-Brasil Exchange
+  details: "Volunteer"
+- experience:
+  role: Member
+  time: 2017 - Present
+  company: Diretório Acadêmico do Instituto de Computação - Ufal
+  details: "Member of events division"
+- experience:
+  role: Member
+  time: 2017 - Present
+  company: Enactus Ufal
+  details: "Member of Research and Innovation crew"

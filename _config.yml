@@ -1,5 +1,5 @@
 # Site Settings
-title: My Resume
+title: Gregory Albertt CV
 url: 'http://suavibe.com/team/gregory'
 baseurl: '/gregoryalbertt.github.io' #change it according to your repository name
 
@@ -13,16 +13,16 @@ style: styles-6
 #Profile information
 name: Gregory Albertt
 tagline: Full Stack Developer
-pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+pic: profile.jpg 
+summary: 'Experience in web development (especially with javascript based frameworks), 
+Java development and a superficial knowledge in artificial intelligence and data mining. 
+Currently, a developer at a VIBE Entertainment and intern at Secretaria de Segurança 
+Pública (SSP) do Estado de Alagoas in IT.'
 
 #sidebar links
 email: gregory@suavibe.com
-phone: +55 82 999253626
-website:  gregory.com #do not add http://
+phone: +55 82 99925-3626
+website:  gregory.github.io 
 linkedin: gregoryalbertt
 github: gregoryalbertt
 twitter: '@gregoryalbertt'
