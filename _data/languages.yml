@@ -1,9 +1,12 @@
 - language:
-  idiom: English
+  idiom: Portuguese
   level: Native
 - language:
-  idiom: French
+  idiom: English
   level: Professional
 - language:
-  idiom: Spanish
-  level: Professional
+  idiom: French
+  level: Basic
+  -language:
+  idiom: German
+  level: Starting
