@@ -1,7 +1,7 @@
 # Site Settings
 title: My Resume
 url: 'http://suavibe.com/team/gregory'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '/gregoryalbertt.github.io' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
